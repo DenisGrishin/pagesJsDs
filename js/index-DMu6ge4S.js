@@ -329,7 +329,7 @@ const M = (e) => {
 };
 b();
 if (document.querySelector('.upload-file')) {
-  debugger;
+
   const e = document.getElementById('file-input');
   const t = document.querySelector('.list-load');
   x(e, t), q(t), P(e, t), M(t);
